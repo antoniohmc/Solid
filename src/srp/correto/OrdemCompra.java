@@ -1,4 +1,4 @@
-package srp;
+package srp.correto;
 
 public class OrdemCompra {
 

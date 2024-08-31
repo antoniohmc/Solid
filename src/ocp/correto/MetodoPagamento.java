@@ -1,4 +1,4 @@
-package ocp;
+package ocp.correto;
 
 public interface MetodoPagamento {
 

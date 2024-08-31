@@ -1,4 +1,4 @@
-package srp;
+package srp.correto;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,3 +1,5 @@
+package ocp.errado;
+
 public class MetodoDePagamento {
 
     public void efetuarPagamento(String tipo, double valor) {
