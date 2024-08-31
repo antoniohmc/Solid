@@ -2,8 +2,8 @@ package isp.errado;
 
 public class Computador implements DispositivoMultifuncional {
     @Override
-    public void enviarEmail(String email) {
-        System.out.println("Enviando email: " + email);
+    public void enviarEmail(String documentos) {
+        System.out.println("Enviando email: " + documentos);
     }
 
     @Override

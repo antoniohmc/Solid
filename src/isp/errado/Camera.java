@@ -2,8 +2,8 @@ package isp.errado;
 
 public class Camera implements DispositivoMultifuncional {
     @Override
-    public void enviarEmail(String email) {
-        System.out.println("Enviando email: " + email); // Uma camera nao pode fazer isso, mas precisa implementar o método.
+    public void enviarEmail(String documentos) {
+        System.out.println("Enviando email: " + documentos); // Uma camera nao pode fazer isso, mas precisa implementar o método.
     }
 
     @Override
